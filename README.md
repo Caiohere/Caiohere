@@ -1,7 +1,7 @@
 <h1 align="center">Oi! Eu sou o Caio</h1>
 <h3 align="center">Aprendiz no mundo dos dados</h3>
 
-- 🌱 Atualmente estou esudando sobre **tecnicas de ETL, pandas, python, SQL**
+- 🌱 Atualmente estou estudando sobre **tecnicas de ETL, pandas, python, SQL**
 
 - 👨‍💻 Meus projetos estão em [https://github.com/Caiohere?tab=repositories](https://github.com/Caiohere?tab=repositories)
 
