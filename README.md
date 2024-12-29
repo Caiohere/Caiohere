@@ -1,5 +1,5 @@
 <h1 align="center">Oi! Eu sou o Caio</h1>
-<h3 align="center">Aprendiz no mundo dos dados</h3>
+<h3 align="center">Evolução pelo aprendizado</h3>
 
 - 🌱 Atualmente estou estudando sobre **Java usando SpringBoot, SQL**
 
